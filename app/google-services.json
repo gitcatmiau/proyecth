@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1022429528757",
+    "firebase_url": "https://huber-48da6.firebaseio.com",
+    "project_id": "huber-48da6",
+    "storage_bucket": "huber-48da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022429528757:android:c236feba11812723",
+        "android_client_info": {
+          "package_name": "com.example.android.huber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022429528757-3dsfr5njeeh5ajlecpm0kmnr22tih59n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.huber",
+            "certificate_hash": "8672e9bc0f0f49704bbb44e36fbb6b9fd60c5c51"
+          }
+        },
+        {
+          "client_id": "1022429528757-c2u49k9bphpm9b03ikluj5gm5lcf1i4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6o29_7eQY4z93MUqmcFHVuNlX1c10Tp8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022429528757-c2u49k9bphpm9b03ikluj5gm5lcf1i4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
